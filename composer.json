@@ -12,7 +12,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "chenkby\\qetag\\": "chenkby/qetag/src"
+            "chenkby\\qetag\\": "src"
         }
     }
 }
