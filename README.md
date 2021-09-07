@@ -10,7 +10,7 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-php composer require chenkby/qetag "*"
+php composer require chenkby/qetag
 ```
 
 or add
