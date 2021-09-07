@@ -1,0 +1,18 @@
+{
+    "name": "chenkby/qetag",
+    "description": "qetag",
+    "type": "library",
+    "keywords": ["qiniu etag","qetag"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "chenkby",
+            "email": "99912250@qq.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "chenkby\\qetag\\": "chenkby/qetag/src"
+        }
+    }
+}
