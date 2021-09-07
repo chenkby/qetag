@@ -1,6 +1,6 @@
 qetag
 =====
-qiniu qetag
+qiniu etag
 
 Installation
 ------------
